@@ -5,7 +5,7 @@ class Tester:
         self.deadline = deadline
 
     def work_hard(self, deadline=True):
-        if deadline:git
+        if deadline:
             print(self.name, 'Что ж, ещё часок поработаю!')
         else:
             print(self.name, 'Можно отдыхать')
